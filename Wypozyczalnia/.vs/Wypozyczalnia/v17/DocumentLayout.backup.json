@@ -1,0 +1,625 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\viewmodels\\klientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\viewmodels\\klientviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\models\\klient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\controllers\\klientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\controllers\\klientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\service\\sprzetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\service\\sprzetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\controllers\\sprzetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\controllers\\sprzetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\viewmodels\\wypozyczenieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\viewmodels\\wypozyczenieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\service\\isprzetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\service\\isprzetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\repositories\\wypozyczenierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\repositories\\wypozyczenierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\repositories\\sprzetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\repositories\\sprzetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\repositories\\klientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\repositories\\klientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\service\\klientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\service\\klientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\service\\wypozyczenieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\service\\wypozyczenieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\service\\iwypozyczenieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\service\\iwypozyczenieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\service\\iklientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\service\\iklientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\controllers\\wypozyczeniecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\controllers\\wypozyczeniecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\views\\wypozyczenie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\views\\wypozyczenie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\viewmodels\\wypozyczenieviewmodelvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\viewmodels\\wypozyczenieviewmodelvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\views\\klient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\views\\klient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\models\\wypozyczenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\models\\wypozyczenia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\models\\sprzet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\models\\sprzet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\repositories\\iwypozyczenierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\repositories\\iwypozyczenierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\repositories\\isprzetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\repositories\\isprzetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\repositories\\iklientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\repositories\\iklientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\wypozyczalnia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\wypozyczalnia.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\views\\klient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\views\\klient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\views\\klient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\views\\klient\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\views\\klient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\views\\klient\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\models\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\models\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\properties\\servicedependencies.local.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|c:\\users\\przemek\\source\\repos\\wypozyczalnia\\wypozyczalnia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDF8979-7CD3-4AAE-A916-073EB3BBA308}|Wypozyczalnia\\Wypozyczalnia.csproj|solutionrelative:wypozyczalnia\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:53:01.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SprzetService.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\SprzetService.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Service\\SprzetService.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\SprzetService.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Service\\SprzetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:44:08.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Program.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Program.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Program.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:33:40.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KlientController.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Controllers\\KlientController.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Controllers\\KlientController.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Controllers\\KlientController.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Controllers\\KlientController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:36:24.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KlientViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\ViewModels\\KlientViewModel.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\ViewModels\\KlientViewModel.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\ViewModels\\KlientViewModel.cs",
+              "RelativeToolTip": "Wypozyczalnia\\ViewModels\\KlientViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T09:44:54.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISprzetService.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\ISprzetService.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Service\\ISprzetService.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\ISprzetService.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Service\\ISprzetService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:42:46.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Klient.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\Klient.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Models\\Klient.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\Klient.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Models\\Klient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:35:08.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WypozyczenieService.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\WypozyczenieService.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Service\\WypozyczenieService.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\WypozyczenieService.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Service\\WypozyczenieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:44:44.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SprzetController.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Controllers\\SprzetController.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Controllers\\SprzetController.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Controllers\\SprzetController.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Controllers\\SprzetController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:36:05.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WypozyczenieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\ViewModels\\WypozyczenieViewModel.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\ViewModels\\WypozyczenieViewModel.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\ViewModels\\WypozyczenieViewModel.cs",
+              "RelativeToolTip": "Wypozyczalnia\\ViewModels\\WypozyczenieViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:33:40.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KlientService.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\KlientService.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Service\\KlientService.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\KlientService.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Service\\KlientService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:23:50.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KlientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\KlientRepository.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Repositories\\KlientRepository.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\KlientRepository.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Repositories\\KlientRepository.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:01:26.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SprzetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\SprzetRepository.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Repositories\\SprzetRepository.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\SprzetRepository.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Repositories\\SprzetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:55:48.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WypozyczenieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\WypozyczenieRepository.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Repositories\\WypozyczenieRepository.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\WypozyczenieRepository.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Repositories\\WypozyczenieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:57:26.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWypozyczenieService.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\IWypozyczenieService.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Service\\IWypozyczenieService.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\IWypozyczenieService.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Service\\IWypozyczenieService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:43:41.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IKlientService.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\IKlientService.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Service\\IKlientService.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Service\\IKlientService.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Service\\IKlientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:24:13.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WypozyczenieController.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Controllers\\WypozyczenieController.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Controllers\\WypozyczenieController.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Controllers\\WypozyczenieController.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Controllers\\WypozyczenieController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:36:39.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Wypozyczenie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Views\\Wypozyczenie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Wypozyczenie\\Create.cshtml",
+              "RelativeToolTip": "Wypozyczalnia\\Views\\Wypozyczenie\\Create.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAYwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-15T07:38:36.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Wypozyczenia.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\Wypozyczenia.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Models\\Wypozyczenia.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\Wypozyczenia.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Models\\Wypozyczenia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:35:18.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WypozyczenieViewModelValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\ViewModels\\WypozyczenieViewModelValidation.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\ViewModels\\WypozyczenieViewModelValidation.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\ViewModels\\WypozyczenieViewModelValidation.cs",
+              "RelativeToolTip": "Wypozyczalnia\\ViewModels\\WypozyczenieViewModelValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T09:23:31.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Klient\\Create.cshtml",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Views\\Klient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Klient\\Create.cshtml",
+              "RelativeToolTip": "Wypozyczalnia\\Views\\Klient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T04:07:17.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Sprzet.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\Sprzet.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Models\\Sprzet.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\Sprzet.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Models\\Sprzet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:35:13.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IWypozyczenieRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\IWypozyczenieRepository.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Repositories\\IWypozyczenieRepository.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\IWypozyczenieRepository.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Repositories\\IWypozyczenieRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:57:07.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISprzetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\ISprzetRepository.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Repositories\\ISprzetRepository.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\ISprzetRepository.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Repositories\\ISprzetRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:55:30.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IKlientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\IKlientRepository.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Repositories\\IKlientRepository.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Repositories\\IKlientRepository.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Repositories\\IKlientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T06:00:46.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Klient\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Views\\Klient\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Klient\\Delete.cshtml",
+              "RelativeToolTip": "Wypozyczalnia\\Views\\Klient\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T04:11:09.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Klient\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Views\\Klient\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Klient\\Edit.cshtml",
+              "RelativeToolTip": "Wypozyczalnia\\Views\\Klient\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T04:10:31.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Klient\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Views\\Klient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Views\\Klient\\Index.cshtml",
+              "RelativeToolTip": "Wypozyczalnia\\Views\\Klient\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-08T04:06:25.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Models\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Models\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T03:49:46.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Wypozyczalnia\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T03:37:45.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "serviceDependencies.local.json",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Properties\\serviceDependencies.local.json",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Properties\\serviceDependencies.local.json",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Properties\\serviceDependencies.local.json",
+              "RelativeToolTip": "Wypozyczalnia\\Properties\\serviceDependencies.local.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T03:35:54.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Wypozyczalnia\\Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T03:35:44.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Wypozyczalnia.csproj",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Wypozyczalnia.csproj",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Wypozyczalnia.csproj",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Wypozyczalnia.csproj",
+              "RelativeToolTip": "Wypozyczalnia\\Wypozyczalnia.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T03:14:20.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:36:28.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:35:27.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "Wypozyczalnia\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T18:34:43.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\appsettings.json",
+              "RelativeDocumentMoniker": "Wypozyczalnia\\appsettings.json",
+              "ToolTip": "C:\\Users\\Przemek\\source\\repos\\Wypozyczalnia\\Wypozyczalnia\\appsettings.json",
+              "RelativeToolTip": "Wypozyczalnia\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T18:09:40.675Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Wypozyczalnia.Models.Klient>
+
+<h2>Lista klientów</h2>
+<a asp-action="Create" class="btn btn-primary">Dodaj nowego klienta</a>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Imię</th>
+            <th>Nazwisko</th>
+            <th>Telefon</th>
+            <th>Data rejestracji</th>
+            <th>Akcje</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var klient in Model)
+        {
+            <tr>
+                <td>@klient.Imie</td>
+                <td>@klient.Nazwisko</td>
+                <td>@klient.Telefon</td>
+                <td>@klient.Data_rejestracja.ToShortDateString()</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@klient.Id_klient" class="btn btn-warning">Edytuj</a>
+                    <a asp-action="Delete" asp-route-id="@klient.Id_klient" class="btn btn-danger">Usuń</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
